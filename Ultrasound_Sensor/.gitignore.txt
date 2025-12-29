@@ -1,0 +1,14 @@
+# Ignore build folders
+Debug/
+Release/
+
+# Ignore IDE-specific settings
+.settings/
+.project
+.cproject
+*.launch
+
+# Ignore binary files
+*.bin
+*.elf
+*.list
